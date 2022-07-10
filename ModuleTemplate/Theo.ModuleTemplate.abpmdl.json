@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Theo.ModuleTemplate.Domain.Shared": {
+      "path": "src/Theo.ModuleTemplate.Domain.Shared/Theo.ModuleTemplate.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.Domain": {
+      "path": "src/Theo.ModuleTemplate.Domain/Theo.ModuleTemplate.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.Application.Contracts": {
+      "path": "src/Theo.ModuleTemplate.Application.Contracts/Theo.ModuleTemplate.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.Application": {
+      "path": "src/Theo.ModuleTemplate.Application/Theo.ModuleTemplate.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.EntityFrameworkCore": {
+      "path": "src/Theo.ModuleTemplate.EntityFrameworkCore/Theo.ModuleTemplate.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.MongoDB": {
+      "path": "src/Theo.ModuleTemplate.MongoDB/Theo.ModuleTemplate.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.HttpApi": {
+      "path": "src/Theo.ModuleTemplate.HttpApi/Theo.ModuleTemplate.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.HttpApi.Client": {
+      "path": "src/Theo.ModuleTemplate.HttpApi.Client/Theo.ModuleTemplate.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.TestBase": {
+      "path": "test/Theo.ModuleTemplate.TestBase/Theo.ModuleTemplate.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Theo.ModuleTemplate.EntityFrameworkCore.Tests": {
+      "path": "test/Theo.ModuleTemplate.EntityFrameworkCore.Tests/Theo.ModuleTemplate.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Theo.ModuleTemplate.MongoDB.Tests": {
+      "path": "test/Theo.ModuleTemplate.MongoDB.Tests/Theo.ModuleTemplate.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Theo.ModuleTemplate.Domain.Tests": {
+      "path": "test/Theo.ModuleTemplate.Domain.Tests/Theo.ModuleTemplate.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Theo.ModuleTemplate.Application.Tests": {
+      "path": "test/Theo.ModuleTemplate.Application.Tests/Theo.ModuleTemplate.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Theo.ModuleTemplate.HttpApi.Host": {
+      "path": "host/Theo.ModuleTemplate.HttpApi.Host/Theo.ModuleTemplate.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Theo.ModuleTemplate.Web": {
+      "path": "src/Theo.ModuleTemplate.Web/Theo.ModuleTemplate.Web.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Theo.ModuleTemplate.HttpApi.Client.ConsoleTestApp/Theo.ModuleTemplate.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Theo.ModuleTemplate.Web.Host": {
+      "path": "host/Theo.ModuleTemplate.Web.Host/Theo.ModuleTemplate.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Theo.ModuleTemplate.IdentityServer": {
+      "path": "host/Theo.ModuleTemplate.IdentityServer/Theo.ModuleTemplate.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "Theo.ModuleTemplate.Host.Shared": {
+      "path": "host/Theo.ModuleTemplate.Host.Shared/Theo.ModuleTemplate.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "Theo.ModuleTemplate.Web.Unified": {
+      "path": "host/Theo.ModuleTemplate.Web.Unified/Theo.ModuleTemplate.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "Theo.ModuleTemplate.Blazor": {
+      "path": "src/Theo.ModuleTemplate.Blazor/Theo.ModuleTemplate.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.Blazor.Host": {
+      "path": "host/Theo.ModuleTemplate.Blazor.Host/Theo.ModuleTemplate.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Theo.ModuleTemplate.Blazor.Server": {
+      "path": "src/Theo.ModuleTemplate.Blazor.Server/Theo.ModuleTemplate.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.Blazor.WebAssembly": {
+      "path": "src/Theo.ModuleTemplate.Blazor.WebAssembly/Theo.ModuleTemplate.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "Theo.ModuleTemplate.Blazor.Server.Host": {
+      "path": "host/Theo.ModuleTemplate.Blazor.Server.Host/Theo.ModuleTemplate.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@theo/module-template": [
+        "projects/module-template/src/public-api.ts"
+      ],
+      "@theo/module-template/config": [
+        "projects/module-template/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/module-template/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/module-template/src/lib/proxy/*"]
+    }
+  }
+}

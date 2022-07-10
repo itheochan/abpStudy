@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Theo.ModuleTemplate": {
+      "path": "Theo.ModuleTemplate.abpmdl.json"
+    }
+  }
+}
